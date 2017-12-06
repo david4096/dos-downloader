@@ -1,0 +1,1 @@
+git+git://github.com/david4096/data-object-schemas.git@master#egg=data_object_schemas-99.9.9
