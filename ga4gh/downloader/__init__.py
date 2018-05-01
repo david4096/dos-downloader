@@ -1,1 +1,3 @@
 import download
+
+assert download
