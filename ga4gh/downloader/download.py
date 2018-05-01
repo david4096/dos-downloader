@@ -29,9 +29,9 @@ def download(url, id):
 def main(args=None):
     parser = argparse.ArgumentParser(description='Process some integers.')
     parser.add_argument('url',
-                        help='an integer for the accumulator')
+                        help='The location of the Data Object Service')
     parser.add_argument('id',
-                        help='sum the integers (default: find the max)')
+                        help='The identifier of the Data Object')
     args = parser.parse_args(args)
     download(args.url, args.id)
 

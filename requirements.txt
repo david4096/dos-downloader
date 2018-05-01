@@ -1,3 +1,2 @@
 ga4gh_dos_schemas
 requests
-click
